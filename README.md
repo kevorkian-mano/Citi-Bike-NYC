@@ -2,6 +2,17 @@
 
 > A comprehensive end-to-end big data project built on Apache PySpark, covering data engineering, analytical querying, machine learning, and interactive dashboard visualization using the NYC Citi Bike dataset.
 
+
+<table>
+  <tr>
+    <td><img src="1.jpeg" alt="Dashboard" width="250"/></td>
+    <td><img src="2.jpeg" alt="Dashboard" width="250"/></td>
+    <td><img src="3.jpeg" alt="Dashboard" width="250"/></td>
+    <td><img src="4.jpeg" alt="Dashboard" width="250"/></td>
+  </tr>
+</table>
+
+
 ---
 
 ## Table of Contents
