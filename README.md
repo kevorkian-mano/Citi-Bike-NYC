@@ -5,10 +5,22 @@
 
 <table>
   <tr>
-    <td><img src="1.jpeg" alt="Dashboard" width="250"/></td>
-    <td><img src="2.jpeg" alt="Dashboard" width="250"/></td>
-    <td><img src="3.jpeg" alt="Dashboard" width="250"/></td>
-    <td><img src="4.jpeg" alt="Dashboard" width="250"/></td>
+    <td><img src="plots and graphs/1.png" alt="Dashboard" width="450"/></td>
+    <td><img src="plots and graphs/2.png" alt="Dashboard" width="450"/></td>
+    <td><img src="plots and graphs/3.png" alt="Dashboard" width="450"/></td>
+    <td><img src="plots and graphs/4.png" alt="Dashboard" width="450"/></td>
+  </tr>
+    <tr>
+    <td><img src="plots and graphs/5.png" alt="Dashboard" width="450"/></td>
+    <td><img src="plots and graphs/6.png" alt="Dashboard" width="450"/></td>
+    <td><img src="plots and graphs/7.png" alt="Dashboard" width="450"/></td>
+    <td><img src="plots and graphs/8.png" alt="Dashboard" width="450"/></td>
+  </tr>
+  <tr>
+    <td><img src="plots and graphs/9.png" alt="Dashboard" width="450"/></td>
+    <td><img src="plots and graphs/10.png" alt="Dashboard" width="450"/></td>
+    <td><img src="plots and graphs/11.png" alt="Dashboard" width="450"/></td>
+    <td><img src="plots and graphs/12.png" alt="Dashboard" width="450"/></td>
   </tr>
 </table>
 
